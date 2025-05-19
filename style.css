@@ -47,9 +47,9 @@ h1 {
 }
 
 .btn {
-  padding: 12px 30px;
+  padding: 4px 8px;
   border: none;
-  border-radius: 50px;
+  border-radius: 30px;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
@@ -60,6 +60,7 @@ h1 {
 .yes-btn {
   background-color: #4caf50;
   color: white;
+  font-size: 10px;
 }
 
 .yes-btn:hover {
@@ -70,10 +71,12 @@ h1 {
 .no-btn {
   background-color: #f44336;
   color: white;
+  font-size: 10px;
 }
 
 .no-btn:hover {
   background-color: #d32f2f;
+  
 }
 
 .message {
